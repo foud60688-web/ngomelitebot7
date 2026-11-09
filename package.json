@@ -1,0 +1,15 @@
+{
+  "name": "ngomelitebot",
+  "version": "1.0.0",
+  "description": "Telegram VIP subscription bot for Nogoom El Riyada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
